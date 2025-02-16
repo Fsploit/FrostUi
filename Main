@@ -3,7 +3,7 @@ _G.FW = true
 
 local loder = {
     [4777817887] = "https://raw.githubusercontent.com/Fsploit/FrostUi/refs/heads/main/README.lua", -- Blade Ball
-    [142823291] = "https://raw.githubusercontent.com/theoriginalhats/FrostwareV1/main/MM2", -- MM2
+    [66654135] = "https://raw.githubusercontent.com/theoriginalhats/FrostwareV1/main/MM2", -- MM2
 }
 
 if loder[game.GameId] then
