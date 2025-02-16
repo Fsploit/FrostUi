@@ -6,6 +6,6 @@ local loder = {
     [142823291] = "https://raw.githubusercontent.com/theoriginalhats/FrostwareV1/main/MM2", -- MM2
 }
 
-if loder[game.PlaceId] then
+if loder[game.GameId] then
     loadstring(game:HttpGet(loder[game.GameId]))()
 end
