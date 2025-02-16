@@ -2,7 +2,7 @@ if _G.FW then return end
 _G.FW = true
 
 local loder = {
-    [13772394625] = "https://raw.githubusercontent.com/Fsploit/FrostUi/refs/heads/main/README.lua", -- Blade Ball
+    [4777817887] = "https://raw.githubusercontent.com/Fsploit/FrostUi/refs/heads/main/README.lua", -- Blade Ball
     [142823291] = "https://raw.githubusercontent.com/theoriginalhats/FrostwareV1/main/MM2", -- MM2
 }
 
