@@ -7,5 +7,5 @@ local loder = {
 }
 
 if loder[game.PlaceId] then
-    loadstring(game:HttpGet(loder[game.PlaceId]))()
+    loadstring(game:HttpGet(loder[game.GameId]))()
 end
